@@ -2,6 +2,7 @@ class ClaseA {
   constructor() {
     this.foo = 0;
     this.bar = 0;
+    this.lorem = "ipsum";
     this.fooInc = 1;
     this.barInc = 2;
   }
